@@ -10,7 +10,6 @@ dependencies {
 
     modImplementation "dev.architectury:architectury:$rootProject.architectury_api_version"
 
-    modImplementation "software.bernie.geckolib:geckolib-neoforge-$rootProject.geckolib_version}"
 }
 
 repositories {
